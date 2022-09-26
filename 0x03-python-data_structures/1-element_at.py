@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def element_at(my_list , idx):
+def element_at(my_list, idx):
     """
     gets an elment from a list at index idx
     Args:
